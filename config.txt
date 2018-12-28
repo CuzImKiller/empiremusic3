@@ -1,6 +1,6 @@
-﻿token=NTI4MjQ3Nzc1ODU1NjQwNTk4.DwfvXg.j32Ozo1rvWBarBq9breLd9oBFfQ
+token=NTI4MjQ3ODcxMjgwMTE5ODI5.Dwfxvw.9Am-kzXQxkEg43Iod1jXnjeIBps
 owner=528229703509606402 
-prefix= 2
-game= 2play | Empire Music
+prefix= 3
+game= 3play | Empire Music
 stayinchannel=true
 songinstatus=true 
