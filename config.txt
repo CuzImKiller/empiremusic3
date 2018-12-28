@@ -1,0 +1,6 @@
+﻿token=NTI4MjQ3Nzc1ODU1NjQwNTk4.DwfvXg.j32Ozo1rvWBarBq9breLd9oBFfQ
+owner=528229703509606402 
+prefix= 2
+game= 2play | Empire Music
+stayinchannel=true
+songinstatus=true 
